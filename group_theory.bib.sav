@@ -1,0 +1,136 @@
+@Article{zbMATH01567830,
+  author   = {Bezverkhnij, N. V.},
+  journal  = {Fundam. Prikl. Mat.},
+  title    = {On the solvability of the general word problem for a cyclic subgroup of a group with condition {{\(C(6)\)}}},
+  year     = {1999},
+  issn     = {1560-5159},
+  language = {Russian},
+  number   = {1},
+  pages    = {39--46},
+  volume   = {5},
+  fjournal = {Fundamental'naya i Prikladnaya Matematika},
+  groups   = {теория малых сокращений},
+  keywords = {20F10,20F06,20F05},
+  priority = {prio2},
+  url      = {mech.math.msu.su/~fpm/eng/99/991/99102h.htm},
+  zbl      = {0970.20021},
+  zbmath   = {1567830},
+}
+
+@Article{Безверхний2014,
+  author  = {Безверхний, Н. В.},
+  journal = {Научное издание МГТУ им. Н.Э.Баумана},
+  title   = {Кольцевые диаграммы с периодическими метками и проблема степенной сопряжённости в группах с условиями C(3)-T(6)},
+  year    = {2014},
+  pages   = {238--256},
+  volume  = {No11},
+  groups  = {теория малых сокращений},
+}
+
+@Book{Линдон1980,
+  author    = {Линдон, Р. and Шупп, П.},
+  publisher = {Мир},
+  title     = {Комбинаторная теория групп},
+  year      = {1980},
+  address   = {М},
+  note      = {Пер. с англ.},
+  groups    = {теория малых сокращений},
+  priority  = {prio1},
+}
+
+@Article{Безверхний2010,
+  author   = {Безверхний, Н. В.},
+  journal  = {Известия ТулГУ. Естественные науки.},
+  title    = {Нормальные формы для элементов бесконечного порядка в группах с условиями C(3)-T(6)},
+  year     = {2010},
+  language = {en},
+  number   = {1},
+  pages    = {6--25},
+  groups   = {теория малых сокращений},
+}
+
+@Book{Магнус1974,
+  author    = {Магнус, Д. and Каррас, А. and Солитер, Д.},
+  publisher = {Наука},
+  title     = {Комбинаторная теория групп},
+  year      = {1974},
+  note      = {Пер. с англ.},
+  groups    = {теория малых сокращений},
+  priority  = {prio1},
+}
+
+@Electronic{Flores2016,
+  author    = {Flores, Ramón and Kahrobaei, Delaram},
+  language  = {ru},
+  title     = {Cryptography with right-angled Artin groups},
+  url       = {https://arxiv.org/abs/1610.06495v3},
+  urldate   = {2023-04-06},
+  year      = {2016},
+  copyright = {arXiv.org perpetual, non-exclusive license},
+  doi       = {10.48550/ARXIV.1610.06495},
+  groups    = {криптография},
+  keywords  = {Cryptography and Security (cs.CR), Group Theory (math.GR), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Mathematics, FOS: Mathematics},
+  publisher = {arXiv},
+}
+
+@Electronic{Fine2011,
+  author    = {Fine, Benjamin and Habeeb, Maggie and Kahrobaei, Delaram and Rosenberger, Gerhard},
+  title     = {Aspects of Nonabelian Group Based Cryptography: A Survey and Open Problems},
+  url       = {https://arxiv.org/abs/1103.4093v2},
+  year      = {2011},
+  copyright = {arXiv.org perpetual, non-exclusive license},
+  doi       = {10.48550/ARXIV.1103.4093},
+  groups    = {криптография},
+  keywords  = {Cryptography and Security (cs.CR), Group Theory (math.GR), FOS: Computer and information sciences, FOS: Computer and information sciences, FOS: Mathematics, FOS: Mathematics, 68 (Primary), 20 (Secondary)},
+  publisher = {arXiv},
+  timestamp = {2023-04-04},
+}
+
+@Article{Bezverkhniy2019,
+  author    = {N. V. Bezverkhniy and M. V. Nikitina},
+  journal   = {Mathematics and Mathematical Modeling},
+  title     = {Asymmetric Secret Key Transfer Scheme over an Open Channel in K-Deterministic Groups with the Conditions C (3) {\textendash}T (6)},
+  year      = {2019},
+  month     = {jan},
+  number    = {6},
+  pages     = {88--111},
+  doi       = {10.24108/mathm.0618.0000151},
+  groups    = {криптография},
+  publisher = {{NPG} Publishing},
+}
+
+@Electronic{Shpilrain2018,
+  author    = {Shpilrain, Vladimir},
+  language  = {en},
+  title     = {Problems in group theory motivated by cryptography},
+  url       = {https://arxiv.org/abs/1802.07300v2},
+  urldate   = {2023-03-28},
+  year      = {2018},
+  copyright = {arXiv.org perpetual, non-exclusive license},
+  doi       = {10.48550/ARXIV.1802.07300},
+  groups    = {криптография},
+  keywords  = {Group Theory (math.GR), Cryptography and Security (cs.CR), FOS: Mathematics, FOS: Mathematics, FOS: Computer and information sciences, FOS: Computer and information sciences, 20F10, 94A60},
+  publisher = {arXiv},
+}
+
+@Article{Hull2016,
+  author    = {Michael Hull},
+  journal   = {Groups, Geometry, and Dynamics},
+  title     = {Small cancellation in acylindrically hyperbolic groups},
+  year      = {2016},
+  number    = {4},
+  pages     = {1077--1119},
+  volume    = {10},
+  doi       = {10.4171/ggd/377},
+  groups    = {теория малых сокращений},
+  publisher = {European Mathematical Society - {EMS} - Publishing House {GmbH}},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
+
+@Comment{jabref-meta: grouping:
+0 AllEntriesGroup:;
+1 StaticGroup:криптография\;0\;1\;0xcc8033ff\;\;\;;
+1 StaticGroup:прочее/вместе\;0\;1\;0x8a8a8aff\;\;\;;
+1 StaticGroup:теория малых сокращений\;0\;1\;0xffff4dff\;\;\;;
+}
