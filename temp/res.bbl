@@ -1,0 +1,910 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Fine2011}{article}{useauthor=false}
+      \name{author}{4}{}{%
+        {{hash=f5a729430bd9a4e904008d4473a91f54}{%
+           family={Fine},
+           familyi={F\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=a220982f5dbe2ce2441566d1691f3906}{%
+           family={Habeeb},
+           familyi={H\bibinitperiod},
+           given={Maggie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e86dae81e813f9be790572b21d041923}{%
+           family={Kahrobaei},
+           familyi={K\bibinitperiod},
+           given={Delaram},
+           giveni={D\bibinitperiod}}}%
+        {{hash=434574b1791ac5ecc4a5314d8b5595ec}{%
+           family={Rosenberger},
+           familyi={R\bibinitperiod},
+           given={Gerhard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{authorbibnamehash}{470444e6fc10930b108ed2265bd9c4b9}
+      \strng{authornamehash}{470444e6fc10930b108ed2265bd9c4b9}
+      \strng{authorfullhash}{8a852fbd52a1e0ce5a82e2d6f9895fd2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv.org, e-Print Archive Mathematics}
+      \field{title}{Aspects of Nonabelian Group Based Cryptography: A Survey and Open Problems}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2011}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1103.4093
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1103.4093v2
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1103.4093v2
+      \endverb
+      \keyw{Cryptography and Security (cs.CR),Group Theory (math.GR),FOS: Computer and information sciences,FOS: Computer and information sciences,FOS: Mathematics,FOS: Mathematics,68 (Primary),20 (Secondary)}
+    \endentry
+    \entry{Bezverkhnij1999}{article}{}
+      \name{author}{1}{}{%
+        {{hash=45cb4d014c31075da50997b46d506ca8}{%
+           family={Bezverkhnij},
+           familyi={B\bibinitperiod},
+           given={N.\bibnamedelimi V.},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {Russian}%
+      }
+      \strng{namehash}{45cb4d014c31075da50997b46d506ca8}
+      \strng{fullhash}{45cb4d014c31075da50997b46d506ca8}
+      \strng{bibnamehash}{45cb4d014c31075da50997b46d506ca8}
+      \strng{authorbibnamehash}{45cb4d014c31075da50997b46d506ca8}
+      \strng{authornamehash}{45cb4d014c31075da50997b46d506ca8}
+      \strng{authorfullhash}{45cb4d014c31075da50997b46d506ca8}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1560-5159}
+      \field{journaltitle}{Fundam. Prikl. Mat.}
+      \field{title}{On the solvability of the general word problem for a cyclic subgroup of a group with condition C(6)}
+      \field{year}{1999}
+      \true{nocite}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{39\bibrangedash 46}
+      \range{pages}{8}
+      \field{volume}{5}
+      \range{volume}{1}
+      \verb{urlraw}
+      \verb mech.math.msu.su/~fpm/eng/99/991/99102h.htm
+      \endverb
+      \verb{url}
+      \verb mech.math.msu.su/~fpm/eng/99/991/99102h.htm
+      \endverb
+      \keyw{20F10,20F06,20F05}
+    \endentry
+    \entry{Bezverkhniy2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=30692f22a64b6afaafe5226f7f776e1b}{%
+           family={Bezverkhniy},
+           familyi={B\bibinitperiod},
+           given={N.\bibnamedelimi V.},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=ece1dcbfdecbaff5bb05f3bef86b0d3b}{%
+           family={Nikitina},
+           familyi={N\bibinitperiod},
+           given={M.\bibnamedelimi V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{NPG} Publishing}%
+      }
+      \strng{namehash}{6d88eb7581e7175beffe171cb6438294}
+      \strng{fullhash}{6d88eb7581e7175beffe171cb6438294}
+      \strng{bibnamehash}{6d88eb7581e7175beffe171cb6438294}
+      \strng{authorbibnamehash}{6d88eb7581e7175beffe171cb6438294}
+      \strng{authornamehash}{6d88eb7581e7175beffe171cb6438294}
+      \strng{authorfullhash}{6d88eb7581e7175beffe171cb6438294}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematics and Mathematical Modeling}
+      \field{month}{1}
+      \field{title}{Asymmetric Secret Key Transfer Scheme over an Open Channel in K-Deterministic Groups with the Conditions C (3)--T (6)}
+      \field{year}{2019}
+      \true{nocite}
+      \field{number}{6}
+      \range{number}{1}
+      \field{pages}{88\bibrangedash 111}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.24108/mathm.0618.0000151
+      \endverb
+    \endentry
+    \entry{Bigdely2013}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=bb69715892a99322abd1208de724ea3d}{%
+           family={Bigdely},
+           familyi={B\bibinitperiod},
+           given={Hadi},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {McGill University}%
+      }
+      \strng{namehash}{bb69715892a99322abd1208de724ea3d}
+      \strng{fullhash}{bb69715892a99322abd1208de724ea3d}
+      \strng{bibnamehash}{bb69715892a99322abd1208de724ea3d}
+      \strng{authorbibnamehash}{bb69715892a99322abd1208de724ea3d}
+      \strng{authornamehash}{bb69715892a99322abd1208de724ea3d}
+      \strng{authorfullhash}{bb69715892a99322abd1208de724ea3d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Subgroup theorems in relatively hyperbolic groups and small-cancellation theory}
+      \field{type}{phdthesis}
+      \field{year}{2013}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://escholarship.mcgill.ca/concern/theses/4j03d3299
+      \endverb
+      \verb{url}
+      \verb https://escholarship.mcgill.ca/concern/theses/4j03d3299
+      \endverb
+    \endentry
+    \entry{Bishop2020}{article}{}
+      \name{author}{2}{}{%
+        {{hash=4f35f6319562125d1cf99266bd14d1f2}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+        {{hash=d56e3532f32bc6f021bb7c834afbfae7}{%
+           family={Ferov},
+           familyi={F\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Centre pour la Communication Scientifique Directe ({CCSD})}%
+      }
+      \strng{namehash}{e3834eed289c9449365c13cbea96ae3e}
+      \strng{fullhash}{e3834eed289c9449365c13cbea96ae3e}
+      \strng{bibnamehash}{e3834eed289c9449365c13cbea96ae3e}
+      \strng{authorbibnamehash}{e3834eed289c9449365c13cbea96ae3e}
+      \strng{authornamehash}{e3834eed289c9449365c13cbea96ae3e}
+      \strng{authorfullhash}{e3834eed289c9449365c13cbea96ae3e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{journal of Groups, complexity, cryptology}
+      \field{month}{9}
+      \field{title}{Density of Metric Small Cancellation in Finitely Presented Groups}
+      \field{year}{2020}
+      \true{nocite}
+      \field{volume}{Volume 12\bibrangessep Issue 2}
+      \range{volume}{-1}
+      \verb{doi}
+      \verb 10.46298/jgcc.2020.12.2.6200
+      \endverb
+    \endentry
+    \entry{Blackburn2009}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ffa0e95f2eeab541c03ace404e6ee81c}{%
+           family={Blackburn},
+           familyi={B\bibinitperiod},
+           given={Simon\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c42b2e33ab215dfeba6b02b4e6067155}{%
+           family={Cid},
+           familyi={C\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod}}}%
+        {{hash=9a8a6d5585d390b8b1ca366cf1c03f2e}{%
+           family={Mullan},
+           familyi={M\bibinitperiod},
+           given={Ciaran},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{ccd5ab0f011fc837c5a062d66abb715d}
+      \strng{fullhash}{ccd5ab0f011fc837c5a062d66abb715d}
+      \strng{bibnamehash}{ccd5ab0f011fc837c5a062d66abb715d}
+      \strng{authorbibnamehash}{ccd5ab0f011fc837c5a062d66abb715d}
+      \strng{authornamehash}{ccd5ab0f011fc837c5a062d66abb715d}
+      \strng{authorfullhash}{ccd5ab0f011fc837c5a062d66abb715d}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper is a guide for the pure mathematician who would like to know more about cryptography based on group theory. The paper gives a brief overview of the subject, and provides pointers to good textbooks, key research papers and recent survey papers in the area.}
+      \field{eprintclass}{math.GR}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{arXiv.org, e-Print Archive Mathematics}
+      \field{month}{6}
+      \field{title}{Group theory in cryptography}
+      \field{urlday}{18}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/ARXIV.0906.5545
+      \endverb
+      \verb{eprint}
+      \verb 0906.5545
+      \endverb
+      \verb{file}
+      \verb :http\://arxiv.org/pdf/0906.5545v2:PDF
+      \endverb
+      \verb{urlraw}
+      \verb http://arxiv.org/abs/0906.5545v2
+      \endverb
+      \verb{url}
+      \verb http://arxiv.org/abs/0906.5545v2
+      \endverb
+      \keyw{Group Theory (math.GR),FOS: Mathematics,94A60}
+    \endentry
+    \entry{Coulon2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=42ef522d863ec197e4612e224f498775}{%
+           family={Coulon},
+           familyi={C\bibinitperiod},
+           given={Rémi},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Scientific Pub Co Pte Lt}%
+      }
+      \strng{namehash}{42ef522d863ec197e4612e224f498775}
+      \strng{fullhash}{42ef522d863ec197e4612e224f498775}
+      \strng{bibnamehash}{42ef522d863ec197e4612e224f498775}
+      \strng{authorbibnamehash}{42ef522d863ec197e4612e224f498775}
+      \strng{authornamehash}{42ef522d863ec197e4612e224f498775}
+      \strng{authorfullhash}{42ef522d863ec197e4612e224f498775}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In these notes we detail the geometrical approach of small cancellation theory used by T. Delzant and M. Gromov to provide a new proof of the infiniteness of free Burnside groups and periodic quotients of torsion-free hyperbolic groups.}
+      \field{day}{27}
+      \field{eprintclass}{math.GR}
+      \field{eprinttype}{arXiv}
+      \field{journaltitle}{Internat. J. Algebra Comput. 24 (2014), no. 3, 251-345}
+      \field{month}{2}
+      \field{title}{Small cancellation theory and Burnside problem}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{number}{03}
+      \range{number}{1}
+      \field{pages}{251\bibrangedash 345}
+      \range{pages}{95}
+      \field{volume}{24}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1142/s0218196714500143
+      \endverb
+      \verb{eprint}
+      \verb 1302.6933
+      \endverb
+      \verb{file}
+      \verb :http\://arxiv.org/pdf/1302.6933v2:PDF
+      \endverb
+      \keyw{Group Theory (math.GR),FOS: Mathematics,20F65,20F50,20F67,20F06}
+      \warn{\item Overwriting field 'month' with month value from field 'date' for entry 'Coulon2013'}
+    \endentry
+    \entry{Coulon2019}{article}{}
+      \name{author}{2}{}{%
+        {{hash=42ef522d863ec197e4612e224f498775}{%
+           family={Coulon},
+           familyi={C\bibinitperiod},
+           given={Rémi},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e64a258746d09ba47eed68ce416988a8}{%
+           family={Gruber},
+           familyi={G\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{d758d17bd9ad84660ab657127729899d}
+      \strng{fullhash}{d758d17bd9ad84660ab657127729899d}
+      \strng{bibnamehash}{d758d17bd9ad84660ab657127729899d}
+      \strng{authorbibnamehash}{d758d17bd9ad84660ab657127729899d}
+      \strng{authornamehash}{d758d17bd9ad84660ab657127729899d}
+      \strng{authorfullhash}{d758d17bd9ad84660ab657127729899d}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Mathematics}
+      \field{month}{9}
+      \field{title}{Small cancellation theory over Burnside groups}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{722\bibrangedash 775}
+      \range{pages}{54}
+      \field{volume}{353}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1016/j.aim.2019.05.029
+      \endverb
+    \endentry
+    \entry{Flores2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=3afc78104de42e695242341a5448e966}{%
+           family={Flores},
+           familyi={F\bibinitperiod},
+           given={Ramón},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e86dae81e813f9be790572b21d041923}{%
+           family={Kahrobaei},
+           familyi={K\bibinitperiod},
+           given={Delaram},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {ru}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{603627e866c50a84c0c1c4de6ab4064d}
+      \strng{fullhash}{603627e866c50a84c0c1c4de6ab4064d}
+      \strng{bibnamehash}{603627e866c50a84c0c1c4de6ab4064d}
+      \strng{authorbibnamehash}{603627e866c50a84c0c1c4de6ab4064d}
+      \strng{authornamehash}{603627e866c50a84c0c1c4de6ab4064d}
+      \strng{authorfullhash}{603627e866c50a84c0c1c4de6ab4064d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv.org, e-Print Archive Mathematics}
+      \field{title}{Cryptography with right-angled Artin groups}
+      \field{urlday}{6}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2016}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1610.06495
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1610.06495v3
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1610.06495v3
+      \endverb
+      \keyw{Cryptography and Security (cs.CR),Group Theory (math.GR),FOS: Computer and information sciences,FOS: Computer and information sciences,FOS: Mathematics,FOS: Mathematics}
+    \endentry
+    \entry{Gruber2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e64a258746d09ba47eed68ce416988a8}{%
+           family={Gruber},
+           familyi={G\bibinitperiod},
+           given={Dominik},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Mathematical Society ({AMS})}%
+      }
+      \strng{namehash}{e64a258746d09ba47eed68ce416988a8}
+      \strng{fullhash}{e64a258746d09ba47eed68ce416988a8}
+      \strng{bibnamehash}{e64a258746d09ba47eed68ce416988a8}
+      \strng{authorbibnamehash}{e64a258746d09ba47eed68ce416988a8}
+      \strng{authornamehash}{e64a258746d09ba47eed68ce416988a8}
+      \strng{authorfullhash}{e64a258746d09ba47eed68ce416988a8}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Transactions of the American Mathematical Society}
+      \field{month}{7}
+      \field{title}{Groups with graphical C(6) and C(7) small cancellation presentations}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{2051\bibrangedash 2078}
+      \range{pages}{28}
+      \field{volume}{367}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.1090/s0002-9947-2014-06198-9
+      \endverb
+    \endentry
+    \entry{Hasapis2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=405f9eba62fb9169f7a69cec007d29ab}{%
+           family={Hasapis},
+           familyi={H\bibinitperiod},
+           given={Sotirios\bibnamedelima D},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=8a19edd3909e63145a477cb1ff86f1b9}{%
+           family={Panagopoulos},
+           familyi={P\bibinitperiod},
+           given={Demetrius},
+           giveni={D\bibinitperiod}}}%
+        {{hash=75e99860900225d7a0434809587a294b}{%
+           family={Raptis},
+           familyi={R\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{5991fef38db61fb9661bae0fd0d2d70a}
+      \strng{fullhash}{5991fef38db61fb9661bae0fd0d2d70a}
+      \strng{bibnamehash}{5991fef38db61fb9661bae0fd0d2d70a}
+      \strng{authorbibnamehash}{5991fef38db61fb9661bae0fd0d2d70a}
+      \strng{authornamehash}{5991fef38db61fb9661bae0fd0d2d70a}
+      \strng{authorfullhash}{5991fef38db61fb9661bae0fd0d2d70a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this report, we introduce some techniques of the cryptography since 1976. In the beginning, the basics of public key cryptography is discussed for the reason that this is the basic idea used in contemporary cryptography. After introducing the fundamental algorithms of cryptography, we mention the analogs in non-commutative algebraic cryptography. Using decision and search problems in Group theory as basis key agreement protocols introduced. Next attacks on groupbased systems are discussed. While, choosing the platform group and the group problem is the key for the security of the system, a secret sharing scheme is introduced in behalf of the writer. Cayley Hash functions and attacks in such systems is introduced next, closing the survey with random strings in group theory and the generalization of some classical problems to the non-commutative case.}
+      \field{journaltitle}{Journal of Applied Mathematics \& Bioinformatics}
+      \field{title}{A Survey of Group-based Cryptography}
+      \field{year}{2015}
+      \true{nocite}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{73\bibrangedash 96}
+      \range{pages}{24}
+      \field{volume}{5}
+      \range{volume}{1}
+      \verb{urlraw}
+      \verb https://scholar.google.hk/citations?view_op=view_citation&hl=en&user=rKbU2GYAAAAJ&citation_for_view=rKbU2GYAAAAJ:d1gkVwhDpl0C
+      \endverb
+      \verb{url}
+      \verb https://scholar.google.hk/citations?view_op=view_citation&hl=en&user=rKbU2GYAAAAJ&citation_for_view=rKbU2GYAAAAJ:d1gkVwhDpl0C
+      \endverb
+    \endentry
+    \entry{Hull2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=10b465bd66e14c0906e96c41f7942ffa}{%
+           family={Hull},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {European Mathematical Society - {EMS} - Publishing House {GmbH}}%
+      }
+      \strng{namehash}{10b465bd66e14c0906e96c41f7942ffa}
+      \strng{fullhash}{10b465bd66e14c0906e96c41f7942ffa}
+      \strng{bibnamehash}{10b465bd66e14c0906e96c41f7942ffa}
+      \strng{authorbibnamehash}{10b465bd66e14c0906e96c41f7942ffa}
+      \strng{authornamehash}{10b465bd66e14c0906e96c41f7942ffa}
+      \strng{authorfullhash}{10b465bd66e14c0906e96c41f7942ffa}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Groups, Geometry, and Dynamics}
+      \field{title}{Small cancellation in acylindrically hyperbolic groups}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{number}{4}
+      \range{number}{1}
+      \field{pages}{1077\bibrangedash 1119}
+      \range{pages}{43}
+      \field{volume}{10}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.4171/ggd/377
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1308.4345
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1308.4345
+      \endverb
+    \endentry
+    \entry{Lee2020}{online}{}
+      \name{author}{3}{}{%
+        {{hash=df974fc6d4ffda39d2eac4eb4da34a82}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Y.X.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=298c16d2b94fbd9a391a8717eb76ca16}{%
+           family={Wong},
+           familyi={W\bibinitperiod},
+           given={Denis\bibnamedelima C.K.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ffcab31d803255db0a6cd57e8f215b89}{%
+           family={Yap},
+           familyi={Y\bibinitperiod},
+           given={Wun-She},
+           giveni={W\bibinithyphendelim S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Academy of Sciences Malaysia}%
+      }
+      \strng{namehash}{51bc649693074eca06574172a47578ed}
+      \strng{fullhash}{51bc649693074eca06574172a47578ed}
+      \strng{bibnamehash}{51bc649693074eca06574172a47578ed}
+      \strng{authorbibnamehash}{51bc649693074eca06574172a47578ed}
+      \strng{authornamehash}{51bc649693074eca06574172a47578ed}
+      \strng{authorfullhash}{51bc649693074eca06574172a47578ed}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ASM} Science Journal}
+      \field{month}{11}
+      \field{title}{Encryption Scheme using Non-Abelian Group based on Conjugacy Search Problem}
+      \field{urlday}{18}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{6}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.32802/asmscj.2020.sm26(5.11)
+      \endverb
+      \verb{urlraw}
+      \verb https://www.semanticscholar.org/paper/Encryption-Scheme-using-Non-Abelian-Group-based-on-Lee-Wong/cc9eae29801568b71644293005d54d9191cfaedd
+      \endverb
+      \verb{url}
+      \verb https://www.semanticscholar.org/paper/Encryption-Scheme-using-Non-Abelian-Group-based-on-Lee-Wong/cc9eae29801568b71644293005d54d9191cfaedd
+      \endverb
+    \endentry
+    \entry{Myasnikov2008}{book}{}
+      \name{author}{3}{}{%
+        {{hash=cb775c34d0b5f4de24831388f0da0f90}{%
+           family={Myasnikov},
+           familyi={M\bibinitperiod},
+           given={Alexei},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ced64140c0146106f61691b2ba210a36}{%
+           family={Shpilrain},
+           familyi={S\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8904edff1ba19c09714059f30c11dfe0}{%
+           family={Ushakov},
+           familyi={U\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Birkhauser Verlag}%
+      }
+      \strng{namehash}{a6e52b5abe96e92ecbfb487b804461db}
+      \strng{fullhash}{a6e52b5abe96e92ecbfb487b804461db}
+      \strng{bibnamehash}{a6e52b5abe96e92ecbfb487b804461db}
+      \strng{authorbibnamehash}{a6e52b5abe96e92ecbfb487b804461db}
+      \strng{authornamehash}{a6e52b5abe96e92ecbfb487b804461db}
+      \strng{authorfullhash}{a6e52b5abe96e92ecbfb487b804461db}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1.}
+      \field{isbn}{9783764388270}
+      \field{title}{Group-Based Cryptography}
+      \field{year}{2008}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 183}
+      \range{pages}{183}
+      \verb{doi}
+      \verb https://doi.org/10.1007/978-3-7643-8827-0
+      \endverb
+      \verb{urlraw}
+      \verb https://link.springer.com/book/10.1007/978-3-7643-8827-0
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/book/10.1007/978-3-7643-8827-0
+      \endverb
+    \endentry
+    \entry{Shpilrain2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ced64140c0146106f61691b2ba210a36}{%
+           family={Shpilrain},
+           familyi={S\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{ced64140c0146106f61691b2ba210a36}
+      \strng{fullhash}{ced64140c0146106f61691b2ba210a36}
+      \strng{bibnamehash}{ced64140c0146106f61691b2ba210a36}
+      \strng{authorbibnamehash}{ced64140c0146106f61691b2ba210a36}
+      \strng{authornamehash}{ced64140c0146106f61691b2ba210a36}
+      \strng{authorfullhash}{ced64140c0146106f61691b2ba210a36}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv.org, e-Print Archive Mathematics}
+      \field{title}{Problems in group theory motivated by cryptography}
+      \field{urlday}{28}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1802.07300
+      \endverb
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1802.07300v2
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1802.07300v2
+      \endverb
+      \keyw{Group Theory (math.GR),Cryptography and Security (cs.CR),FOS: Mathematics,FOS: Mathematics,FOS: Computer and information sciences,FOS: Computer and information sciences,20F10,94A60}
+    \endentry
+    \entry{Shpilrain2006}{online}{}
+      \name{author}{2}{}{%
+        {{hash=ced64140c0146106f61691b2ba210a36}{%
+           family={Shpilrain},
+           familyi={S\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+        {{hash=a31f20570cebb8ffe6dfc69b0003c861}{%
+           family={Zapata},
+           familyi={Z\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {American Mathematical Society}%
+      }
+      \strng{namehash}{e6ad3e3f54b3e6c931300c4ec1a57e4a}
+      \strng{fullhash}{e6ad3e3f54b3e6c931300c4ec1a57e4a}
+      \strng{bibnamehash}{e6ad3e3f54b3e6c931300c4ec1a57e4a}
+      \strng{authorbibnamehash}{e6ad3e3f54b3e6c931300c4ec1a57e4a}
+      \strng{authornamehash}{e6ad3e3f54b3e6c931300c4ec1a57e4a}
+      \strng{authorfullhash}{e6ad3e3f54b3e6c931300c4ec1a57e4a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Using the subgroup membership search problem in public key cryptography}
+      \field{urlday}{18}
+      \field{urlmonth}{4}
+      \field{urlyear}{2023}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{169\bibrangedash 178}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1090/conm/418/07955
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/228626705_Using_the_subgroup_membership_search_problem_in_public_key_cryptography
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/228626705_Using_the_subgroup_membership_search_problem_in_public_key_cryptography
+      \endverb
+    \endentry
+    \entry{Безверхний2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f20487942e444ab587d5c4a1c2ca5e45}{%
+           family={Безверхний},
+           familyi={Б\bibinitperiod},
+           given={Н.\bibnamedelimi В.},
+           giveni={Н\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \strng{namehash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \strng{fullhash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \strng{bibnamehash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \strng{authorbibnamehash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \strng{authornamehash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \strng{authorfullhash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \field{extraname}{1}
+      \field{sortinit}{Б}
+      \field{sortinithash}{5261f8dfa92113358b76bb09b8629977}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Научное издание МГТУ им. Н.Э.Баумана}
+      \field{title}{Кольцевые диаграммы с периодическими метками и проблема степенной сопряжённости в группах с условиями C(3)-T(6)}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{238\bibrangedash 256}
+      \range{pages}{19}
+      \field{volume}{No11}
+      \range{volume}{-1}
+    \endentry
+    \entry{Безверхний2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f20487942e444ab587d5c4a1c2ca5e45}{%
+           family={Безверхний},
+           familyi={Б\bibinitperiod},
+           given={Н.\bibnamedelimi В.},
+           giveni={Н\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \strng{fullhash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \strng{bibnamehash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \strng{authorbibnamehash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \strng{authornamehash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \strng{authorfullhash}{f20487942e444ab587d5c4a1c2ca5e45}
+      \field{extraname}{2}
+      \field{sortinit}{Б}
+      \field{sortinithash}{5261f8dfa92113358b76bb09b8629977}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Известия ТулГУ. Естественные науки.}
+      \field{title}{Нормальные формы для элементов бесконечного порядка в группах с условиями C(3)-T(6)}
+      \field{year}{2010}
+      \true{nocite}
+      \field{number}{1}
+      \range{number}{1}
+      \field{pages}{6\bibrangedash 25}
+      \range{pages}{20}
+    \endentry
+    \entry{Линдон1980}{book}{}
+      \name{author}{2}{}{%
+        {{hash=052ea42bce1bc9709d26742caf87e008}{%
+           family={Линдон},
+           familyi={Л\bibinitperiod},
+           given={Р.},
+           giveni={Р\bibinitperiod}}}%
+        {{hash=94ef2decece8d02fa29bc1da56d51418}{%
+           family={Шупп},
+           familyi={Ш\bibinitperiod},
+           given={П.},
+           giveni={П\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Мир}%
+      }
+      \strng{namehash}{f4e194ee9cf7d84b3301dfb194479bae}
+      \strng{fullhash}{f4e194ee9cf7d84b3301dfb194479bae}
+      \strng{bibnamehash}{f4e194ee9cf7d84b3301dfb194479bae}
+      \strng{authorbibnamehash}{f4e194ee9cf7d84b3301dfb194479bae}
+      \strng{authornamehash}{f4e194ee9cf7d84b3301dfb194479bae}
+      \strng{authorfullhash}{f4e194ee9cf7d84b3301dfb194479bae}
+      \field{sortinit}{Л}
+      \field{sortinithash}{408c91708504c4d55e9c1a703c852f82}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Пер. с англ.}
+      \field{title}{Комбинаторная теория групп}
+      \field{year}{1980}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 447}
+      \range{pages}{447}
+    \endentry
+    \entry{Магнус1974}{book}{}
+      \name{author}{3}{}{%
+        {{hash=57b686b7cc4d7462edd1bc5679ba21e7}{%
+           family={Магнус},
+           familyi={М\bibinitperiod},
+           given={Д.},
+           giveni={Д\bibinitperiod}}}%
+        {{hash=57261afd48bbb049e0ce4a9e94a2d7d9}{%
+           family={Каррас},
+           familyi={К\bibinitperiod},
+           given={А.},
+           giveni={А\bibinitperiod}}}%
+        {{hash=c08dd43772614b3e9d111a0528fb5d3a}{%
+           family={Солитер},
+           familyi={С\bibinitperiod},
+           given={Д.},
+           giveni={Д\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Наука}%
+      }
+      \strng{namehash}{b7f76a512ba63766ea790742a12fe83c}
+      \strng{fullhash}{b7f76a512ba63766ea790742a12fe83c}
+      \strng{bibnamehash}{b7f76a512ba63766ea790742a12fe83c}
+      \strng{authorbibnamehash}{b7f76a512ba63766ea790742a12fe83c}
+      \strng{authornamehash}{b7f76a512ba63766ea790742a12fe83c}
+      \strng{authorfullhash}{b7f76a512ba63766ea790742a12fe83c}
+      \field{sortinit}{М}
+      \field{sortinithash}{3750e8e5bcd54966a663076166442576}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Пер. с англ.}
+      \field{title}{Комбинаторная теория групп}
+      \field{year}{1974}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 456}
+      \range{pages}{456}
+    \endentry
+    \entry{Ольшанский1989}{book}{}
+      \name{author}{1}{}{%
+        {{hash=7235a427f9ad57687be1cecb3f72e0ca}{%
+           family={Ольшанский},
+           familyi={О\bibinitperiod},
+           given={А.\bibnamedelimi Ю.},
+           giveni={А\bibinitperiod\bibinitdelim Ю\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {М.}%
+      }
+      \list{publisher}{1}{%
+        {Наука}%
+      }
+      \strng{namehash}{7235a427f9ad57687be1cecb3f72e0ca}
+      \strng{fullhash}{7235a427f9ad57687be1cecb3f72e0ca}
+      \strng{bibnamehash}{7235a427f9ad57687be1cecb3f72e0ca}
+      \strng{authorbibnamehash}{7235a427f9ad57687be1cecb3f72e0ca}
+      \strng{authornamehash}{7235a427f9ad57687be1cecb3f72e0ca}
+      \strng{authorfullhash}{7235a427f9ad57687be1cecb3f72e0ca}
+      \field{sortinit}{О}
+      \field{sortinithash}{0b6ace0306d54dc7e48b12798a728885}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Современная алгебра}
+      \field{title}{Геометрия определяющих соотношений в группах}
+      \field{year}{1989}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 448}
+      \range{pages}{448}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

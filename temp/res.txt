@@ -1,0 +1,52 @@
+References
+
+1.Aspects of Nonabelian Group Based Cryptography: A Survey and OpenProblems / B. Fine [et al.] // arXiv.org, e-Print Archive Mathematics. —
+
+2011. — DOI: 10.48550/ARXIV.1103.4093. — URL: https://arxiv.org/abs/1103.4093v2 (visited on 04/06/2023).
+
+2.Bezverkhnij N. V. On the solvability of the general word problem for acyclic subgroup of a group with condition C(6) // Fundam. Prikl. Mat. —
+
+1999. — Vol. 5, no. 1. — P. 39–46. — ISSN 1560-5159. — URL: mech.math.msu.su/~fpm/eng/99/991/99102h.htm.
+
+3.Bezverkhniy N. V., Nikitina M. V. Asymmetric Secret Key Transfer Schemeover an Open Channel in K-Deterministic Groups with the Conditions C(3)–T (6) // Mathematics and Mathematical Modeling. — 2019. — Jan. —No. 6. — P. 88–111. — DOI: 10.24108/mathm.0618.0000151.
+
+4. Bigdely H. Subgroup theorems in relatively hyperbolic groups and smallcancellation theory : PhD thesis / Bigdely Hadi. — McGill University,
+
+2013. — URL: https : / / escholarship . mcgill . ca / concern / theses /4j03d3299.
+
+5. Bishop A., Ferov M. Density of Metric Small Cancellation in Finitely Presented Groups // journal of Groups, complexity, cryptology. — 2020. —Sept. — Vol. Volume 12, Issue 2. — DOI: 10.46298/jgcc.2020.12.2.6200.
+
+6. Blackburn S. R., Cid C., Mullan C. Group theory in cryptography //arXiv.org, e-Print Archive Mathematics. — 2009. — June. — DOI: 10 .48550/ARXIV.0906.5545. — arXiv: 0906.5545 [math.GR]. — URL: http://arxiv.org/abs/0906.5545v2 (visited on 04/18/2023).
+
+7. Coulon R. Small cancellation theory and Burnside problem // Internat. J.Algebra Comput. 24 (2014), no. 3, 251-345. — 2013. — Feb. 27. — Vol. 24,no. 03. — P. 251–345. — DOI: 10.1142/s0218196714500143. — arXiv:1302.6933 [math.GR].
+
+8. Coulon R., Gruber D. Small cancellation theory over Burnside groups //Advances in Mathematics. — 2019. — Sept. — Vol. 353. — P. 722–775. —DOI: 10.1016/j.aim.2019.05.029.
+
+9. Flores R., Kahrobaei D. Cryptography with right-angled Artin groups //arXiv.org, e-Print Archive Mathematics. — 2016. — DOI: 10 . 48550 /ARXIV.1610.06495. — URL: https://arxiv.org/abs/1610.06495v3(visited on 04/06/2023).
+
+10.Gruber D. Groups with graphical C(6) and C(7) small cancellation presentations // Transactions of the American Mathematical Society. — 2014. —July. — Vol. 367, no. 3. — P. 2051–2078. — DOI: 10.1090/s0002-99472014-06198-9.
+
+11.Hasapis S. D., Panagopoulos D., Raptis E. A Survey of Group-basedCryptography // Journal of Applied Mathematics & Bioinformatics. —
+
+2015. — Vol. 5, no. 3. — P. 73–96. — URL: https://scholar.google.hk/citations?view_op=view_citation&hl=en&user=rKbU2GYAAAAJ&citation_for_view=rKbU2GYAAAAJ:d1gkVwhDpl0C.
+
+12.Hull M. Small cancellation in acylindrically hyperbolic groups // Groups,Geometry, and Dynamics. — 2016. — Vol. 10, no. 4. — P. 1077–1119. —DOI: 10.4171/ggd/377. — URL: https://arxiv.org/abs/1308.4345.
+
+13.Lee Y., Wong D. C., Yap W.-S. Encryption Scheme using Non-AbelianGroup based on Conjugacy Search Problem. — 11/2020. — DOI: 10 .32802/asmscj.2020.sm26(5.11). — URL: https://www.semanticscholar.org/paper/Encryption- Scheme- using- Non- Abelian- Group- basedon-Lee-Wong/cc9eae29801568b71644293005d54d9191cfaedd (visited on04/18/2023).
+
+14.Myasnikov A., Shpilrain V., Ushakov A. Group-Based Cryptography. —.1st ed. — Birkhauser Verlag, 2008. — P. 1–183. — ISBN 9783764388270. —DOI: https://doi.org/10.1007/978-3-7643-8827-0. — URL: https://link.springer.com/book/10.1007/978-3-7643-8827-0.
+
+15.Shpilrain V. Problems in group theory motivated by cryptography //arXiv.org, e-Print Archive Mathematics. — 2018. — DOI: 10 . 48550 /ARXIV.1802.07300. — URL: https://arxiv.org/abs/1802.07300v2(visited on 03/28/2023).
+
+16.Shpilrain V., Zapata G. Using the subgroup membership search problemin public key cryptography. — 2006. — DOI: 10.1090/conm/418/07955. —URL: https : / / www . researchgate . net / publication / 228626705 _Using_the_subgroup_membership_search_problem_in_public_key_cryptography (visited on 04/18/2023).
+
+17.Безверхний Н. В. Кольцевые диаграммы с периодическими меткамии проблема степенной сопряжённости в группах с условиями C(3)T(6) // Научное издание МГТУ им. Н.Э.Баумана. — 2014. — Vol.No11. — P. 238–256.
+
+18.Безверхний Н. В. Нормальные формы для элементов бесконечногопорядка в группах с условиями C(3)-T(6) // Известия ТулГУ. Естественныенауки. — 2010. — No. 1. — P. 6–25.
+
+19.Линдон Р., Шупп П. Комбинаторная теория групп. — М. : Мир, 1980. —P. 1–447. — Пер. с англ.
+
+20.Магнус Д., Каррас А., Солитер Д. Комбинаторная теория групп. —М. : Наука, 1974. — P. 1–456. — Пер. с англ.
+
+21.Ольшанский А. Ю. Геометрия определяющих соотношений в группах. —М. : Наука, 1989. — P. 1–448. — (Современная алгебра).
+
