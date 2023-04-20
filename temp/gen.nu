@@ -1,8 +1,8 @@
 #!/usr/bin/env nu
 
-# latexmk -f -pdf res.tex
-# sleep 500ms
-# latexmk -c
+latexmk -f -pdf res.tex
+sleep 500ms
+latexmk -c
 
 pdftotext -nopgbrk -layout res.pdf
 
@@ -17,6 +17,10 @@ pdftotext -nopgbrk -layout res.pdf
           else $it )}
   | flatten
   | split list '-----'
-  | each { |it| $it | str join | str replace -a '\s{2,}' ' ' | $in + "\n" }
-  | save -f res.txt
+  | each { |it| $it | str join | str replace -a '\s{2,}' ' ' }
+  | parse -r '^\s*(?P<citekey>\S+\d{4})\s+[\d]+\.\s*(?P<contents>.*)'
+  | save -f res.csv
 )
+
+soffice --convert-to ods res.csv
+rm res.csv res.bbl res.run.xml 
