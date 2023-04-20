@@ -19,6 +19,51 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Anshel1999}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9e88c20b006f96ef9fb3e3c92ca6628d}{%
+           family={Anshel},
+           familyi={A\bibinitperiod},
+           given={Iris},
+           giveni={I\bibinitperiod}}}%
+        {{hash=930201ef85dfbcf9660232d4ab266b4d}{%
+           family={Anshel},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=0dd00ede505eb3b7e9f80806f1f8741d}{%
+           family={Goldfeld},
+           familyi={G\bibinitperiod},
+           given={Dorian},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {International Press of Boston}%
+      }
+      \strng{namehash}{247dba8e709de1413f887b9b0ade29f0}
+      \strng{fullhash}{247dba8e709de1413f887b9b0ade29f0}
+      \strng{bibnamehash}{247dba8e709de1413f887b9b0ade29f0}
+      \strng{authorbibnamehash}{247dba8e709de1413f887b9b0ade29f0}
+      \strng{authornamehash}{247dba8e709de1413f887b9b0ade29f0}
+      \strng{authorfullhash}{247dba8e709de1413f887b9b0ade29f0}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mathematical Research Letters}
+      \field{title}{An algebraic method for public-key cryptography}
+      \field{year}{1999}
+      \true{nocite}
+      \field{number}{3}
+      \range{number}{1}
+      \field{pages}{287\bibrangedash 291}
+      \range{pages}{5}
+      \field{volume}{6}
+      \range{volume}{1}
+      \verb{doi}
+      \verb 10.4310/mrl.1999.v6.n3.a3
+      \endverb
+    \endentry
     \entry{Fine2011}{article}{useauthor=false}
       \name{author}{4}{}{%
         {{hash=f5a729430bd9a4e904008d4473a91f54}{%
@@ -414,6 +459,49 @@
       \endverb
       \keyw{Cryptography and Security (cs.CR),Group Theory (math.GR),FOS: Computer and information sciences,FOS: Computer and information sciences,FOS: Mathematics,FOS: Mathematics}
     \endentry
+    \entry{Gromov1987}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=00439431c8452ddc2a23d53f156c3ffe}{%
+           family={Gromov},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=4c139865b9b75714dd23c6277aef56b4}{%
+           family={Green},
+           familyi={G\bibinitperiod},
+           given={Mark\bibnamedelima Lee},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Germany}%
+      }
+      \list{publisher}{1}{%
+        {Springer New York}%
+      }
+      \strng{namehash}{00439431c8452ddc2a23d53f156c3ffe}
+      \strng{fullhash}{00439431c8452ddc2a23d53f156c3ffe}
+      \strng{bibnamehash}{00439431c8452ddc2a23d53f156c3ffe}
+      \strng{authorbibnamehash}{00439431c8452ddc2a23d53f156c3ffe}
+      \strng{authornamehash}{00439431c8452ddc2a23d53f156c3ffe}
+      \strng{authorfullhash}{00439431c8452ddc2a23d53f156c3ffe}
+      \strng{editorbibnamehash}{4c139865b9b75714dd23c6277aef56b4}
+      \strng{editornamehash}{4c139865b9b75714dd23c6277aef56b4}
+      \strng{editorfullhash}{4c139865b9b75714dd23c6277aef56b4}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Essays in Group Theory}
+      \field{chapter}{8.2}
+      \field{isbn}{0-387-96618-8}
+      \field{title}{Hyperbolic groups}
+      \field{year}{1987}
+      \true{nocite}
+      \field{pages}{75\bibrangedash 265}
+      \range{pages}{191}
+    \endentry
     \entry{Gruber2014}{article}{}
       \name{author}{1}{}{%
         {{hash=e64a258746d09ba47eed68ce416988a8}{%
@@ -451,6 +539,54 @@
       \verb 10.1090/s0002-9947-2014-06198-9
       \endverb
     \endentry
+    \entry{Habeeb2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a220982f5dbe2ce2441566d1691f3906}{%
+           family={Habeeb},
+           familyi={H\bibinitperiod},
+           given={Maggie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e86dae81e813f9be790572b21d041923}{%
+           family={Kahrobaei},
+           familyi={K\bibinitperiod},
+           given={Delaram},
+           giveni={D\bibinitperiod}}}%
+        {{hash=ced64140c0146106f61691b2ba210a36}{%
+           family={Shpilrain},
+           familyi={S\bibinitperiod},
+           given={Vladimir},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {arXiv}%
+      }
+      \strng{namehash}{74c83b8c2058a69803838d4d4f0a7af0}
+      \strng{fullhash}{74c83b8c2058a69803838d4d4f0a7af0}
+      \strng{bibnamehash}{74c83b8c2058a69803838d4d4f0a7af0}
+      \strng{authorbibnamehash}{74c83b8c2058a69803838d4d4f0a7af0}
+      \strng{authornamehash}{74c83b8c2058a69803838d4d4f0a7af0}
+      \strng{authorfullhash}{74c83b8c2058a69803838d4d4f0a7af0}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eprintclass}{cs.CR}
+      \field{eprinttype}{arXiv}
+      \field{month}{5}
+      \field{title}{A Secret Sharing Scheme Based on Group Presentations and the Word Problem}
+      \field{year}{2012}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.48550/ARXIV.1205.0157
+      \endverb
+      \verb{eprint}
+      \verb 1205.0157
+      \endverb
+      \verb{file}
+      \verb :http\://arxiv.org/pdf/1205.0157v1:PDF
+      \endverb
+      \keyw{Cryptography and Security (cs.CR),Group Theory (math.GR),FOS: Computer and information sciences,FOS: Mathematics}
+    \endentry
     \entry{Hasapis2015}{article}{}
       \name{author}{3}{}{%
         {{hash=405f9eba62fb9169f7a69cec007d29ab}{%
@@ -482,7 +618,6 @@
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{In this report, we introduce some techniques of the cryptography since 1976. In the beginning, the basics of public key cryptography is discussed for the reason that this is the basic idea used in contemporary cryptography. After introducing the fundamental algorithms of cryptography, we mention the analogs in non-commutative algebraic cryptography. Using decision and search problems in Group theory as basis key agreement protocols introduced. Next attacks on groupbased systems are discussed. While, choosing the platform group and the group problem is the key for the security of the system, a secret sharing scheme is introduced in behalf of the writer. Cayley Hash functions and attacks in such systems is introduced next, closing the survey with random strings in group theory and the generalization of some classical problems to the non-commutative case.}
       \field{journaltitle}{Journal of Applied Mathematics \& Bioinformatics}
       \field{title}{A Survey of Group-based Cryptography}
       \field{year}{2015}
@@ -541,6 +676,34 @@
       \verb{url}
       \verb https://arxiv.org/abs/1308.4345
       \endverb
+    \endentry
+    \entry{Kalkan2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=878b6a89774f31211fe603b28d68fe57}{%
+           family={Kalkan},
+           familyi={K\bibinitperiod},
+           given={Mehmet},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{878b6a89774f31211fe603b28d68fe57}
+      \strng{fullhash}{878b6a89774f31211fe603b28d68fe57}
+      \strng{bibnamehash}{878b6a89774f31211fe603b28d68fe57}
+      \strng{authorbibnamehash}{878b6a89774f31211fe603b28d68fe57}
+      \strng{authornamehash}{878b6a89774f31211fe603b28d68fe57}
+      \strng{authorfullhash}{878b6a89774f31211fe603b28d68fe57}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Mathematics and System Science}
+      \field{month}{11}
+      \field{title}{On the Group Based Cryptography}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{710\bibrangedash 714}
+      \range{pages}{5}
+      \field{volume}{4}
+      \range{volume}{1}
     \endentry
     \entry{Lee2020}{online}{}
       \name{author}{3}{}{%
@@ -737,6 +900,32 @@
       \verb https://www.researchgate.net/publication/228626705_Using_the_subgroup_membership_search_problem_in_public_key_cryptography
       \endverb
     \endentry
+    \entry{Безверхний1994}{article}{}
+      \name{author}{1}{}{%
+        {{hash=768fe9513481461d705b0ca7f78670c8}{%
+           family={Безверхний},
+           familyi={Б\bibinitperiod},
+           given={В.\bibnamedelimi Н.},
+           giveni={В\bibinitperiod\bibinitdelim Н\bibinitperiod}}}%
+      }
+      \strng{namehash}{768fe9513481461d705b0ca7f78670c8}
+      \strng{fullhash}{768fe9513481461d705b0ca7f78670c8}
+      \strng{bibnamehash}{768fe9513481461d705b0ca7f78670c8}
+      \strng{authorbibnamehash}{768fe9513481461d705b0ca7f78670c8}
+      \strng{authornamehash}{768fe9513481461d705b0ca7f78670c8}
+      \strng{authorfullhash}{768fe9513481461d705b0ca7f78670c8}
+      \field{extraname}{1}
+      \field{sortinit}{Б}
+      \field{sortinithash}{5261f8dfa92113358b76bb09b8629977}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Алгоритмические проблемы теории групп и полугрупп. Межвузовский сборник научных трудов. Изд-во Тул. гос. пед. ун-та им. Л.Н.Толстого}
+      \field{title}{О нормализаторах элементов в C(p)-T(q)-группах.}
+      \field{year}{1994}
+      \true{nocite}
+      \field{pages}{4\bibrangedash 58}
+      \range{pages}{55}
+    \endentry
     \entry{Безверхний2014}{article}{}
       \name{author}{1}{}{%
         {{hash=f20487942e444ab587d5c4a1c2ca5e45}{%
@@ -745,13 +934,16 @@
            given={Н.\bibnamedelimi В.},
            giveni={Н\bibinitperiod\bibinitdelim В\bibinitperiod}}}%
       }
+      \list{language}{1}{%
+        {ru}%
+      }
       \strng{namehash}{f20487942e444ab587d5c4a1c2ca5e45}
       \strng{fullhash}{f20487942e444ab587d5c4a1c2ca5e45}
       \strng{bibnamehash}{f20487942e444ab587d5c4a1c2ca5e45}
       \strng{authorbibnamehash}{f20487942e444ab587d5c4a1c2ca5e45}
       \strng{authornamehash}{f20487942e444ab587d5c4a1c2ca5e45}
       \strng{authorfullhash}{f20487942e444ab587d5c4a1c2ca5e45}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{Б}
       \field{sortinithash}{5261f8dfa92113358b76bb09b8629977}
       \field{labelnamesource}{author}
@@ -782,7 +974,7 @@
       \strng{authorbibnamehash}{f20487942e444ab587d5c4a1c2ca5e45}
       \strng{authornamehash}{f20487942e444ab587d5c4a1c2ca5e45}
       \strng{authorfullhash}{f20487942e444ab587d5c4a1c2ca5e45}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{Б}
       \field{sortinithash}{5261f8dfa92113358b76bb09b8629977}
       \field{labelnamesource}{author}

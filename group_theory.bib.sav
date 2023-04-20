@@ -18,13 +18,14 @@
 }
 
 @Article{Безверхний2014,
-  author  = {Безверхний, Н. В.},
-  journal = {Научное издание МГТУ им. Н.Э.Баумана},
-  title   = {Кольцевые диаграммы с периодическими метками и проблема степенной сопряжённости в группах с условиями C(3)-T(6)},
-  year    = {2014},
-  pages   = {238--256},
-  volume  = {No11},
-  groups  = {теория малых сокращений},
+  author   = {Безверхний, Н. В.},
+  journal  = {Научное издание МГТУ им. Н.Э.Баумана},
+  title    = {Кольцевые диаграммы с периодическими метками и проблема степенной сопряжённости в группах с условиями C(3)-T(6)},
+  year     = {2014},
+  language = {ru},
+  pages    = {238--256},
+  volume   = {No11},
+  groups   = {теория малых сокращений},
 }
 
 @Book{Линдон1980,
@@ -102,6 +103,7 @@
   pages     = {88--111},
   doi       = {10.24108/mathm.0618.0000151},
   groups    = {прочее/вместе},
+  priority  = {prio1},
   publisher = {{NPG} Publishing},
 }
 
@@ -111,6 +113,7 @@
   title     = {Problems in group theory motivated by cryptography},
   year      = {2018},
   language  = {en},
+  comment   = {- проблема факторизации},
   copyright = {arXiv.org perpetual, non-exclusive license},
   doi       = {10.48550/ARXIV.1802.07300},
   groups    = {криптография},
@@ -131,6 +134,7 @@
   groups       = {теория малых сокращений},
   journaltitle = {Groups, Geometry, and Dynamics},
   publisher    = {European Mathematical Society - {EMS} - Publishing House {GmbH}},
+  url          = {https://arxiv.org/abs/1308.4345},
 }
 
 @Article{Coulon2013,
@@ -257,7 +261,6 @@
   number   = {3},
   pages    = {73-96},
   volume   = {5},
-  abstract = {In this report, we introduce some techniques of the cryptography since 1976. In the beginning, the basics of public key cryptography is discussed for the reason that this is the basic idea used in contemporary cryptography. After introducing the fundamental algorithms of cryptography, we mention the analogs in non-commutative algebraic cryptography. Using decision and search problems in Group theory as basis key agreement protocols introduced. Next attacks on groupbased systems are discussed. While, choosing the platform group and the group problem is the key for the security of the system, a secret sharing scheme is introduced in behalf of the writer. Cayley Hash functions and attacks in such systems is introduced next, closing the survey with random strings in group theory and the generalization of some classical problems to the non-commutative case.},
   groups   = {криптография},
   url      = {https://scholar.google.hk/citations?view_op=view_citation&hl=en&user=rKbU2GYAAAAJ&citation_for_view=rKbU2GYAAAAJ:d1gkVwhDpl0C},
 }
@@ -290,11 +293,76 @@
   publisher = {American Mathematical Society},
 }
 
+@Article{Безверхний1994,
+  author  = {Безверхний, В. Н.},
+  journal = {Алгоритмические проблемы теории групп и полугрупп. Межвузовский сборник научных трудов. Изд-во Тул. гос. пед. ун-та им. Л.Н.Толстого},
+  title   = {О нормализаторах элементов в C(p)-T(q)-группах.},
+  year    = {1994},
+  pages   = {4-58},
+  groups  = {теория малых сокращений},
+}
+
+@InCollection{Gromov1987,
+  author    = {Gromov, M.},
+  booktitle = {Essays in Group Theory},
+  publisher = {Springer New York},
+  title     = {Hyperbolic groups},
+  year      = {1987},
+  address   = {Germany},
+  chapter   = {8.2},
+  editor    = {Mark Lee Green},
+  isbn      = {0-387-96618-8},
+  pages     = {75--265},
+  groups    = {теория малых сокращений},
+}
+
+@Article{Anshel1999,
+  author    = {Iris Anshel and Michael Anshel and Dorian Goldfeld},
+  journal   = {Mathematical Research Letters},
+  title     = {An algebraic method for public-key cryptography},
+  year      = {1999},
+  number    = {3},
+  pages     = {287--291},
+  volume    = {6},
+  doi       = {10.4310/mrl.1999.v6.n3.a3},
+  groups    = {криптография},
+  priority  = {prio2},
+  publisher = {International Press of Boston},
+}
+
+@Article{Kalkan2014,
+  author  = {Kalkan, Mehmet},
+  journal = {Journal of Mathematics and System Science},
+  title   = {On the Group Based Cryptography},
+  year    = {2014},
+  month   = {11},
+  pages   = {710-714},
+  volume  = {4},
+  groups  = {криптография},
+}
+
+@Article{Habeeb2012,
+  author        = {Habeeb, Maggie and Kahrobaei, Delaram and Shpilrain, Vladimir},
+  title         = {A Secret Sharing Scheme Based on Group Presentations and the Word Problem},
+  year          = {2012},
+  month         = may,
+  archiveprefix = {arXiv},
+  copyright     = {arXiv.org perpetual, non-exclusive license},
+  doi           = {10.48550/ARXIV.1205.0157},
+  eprint        = {1205.0157},
+  file          = {:http\://arxiv.org/pdf/1205.0157v1:PDF},
+  groups        = {криптография прочее/вместе, прочее/вместе},
+  keywords      = {Cryptography and Security (cs.CR), Group Theory (math.GR), FOS: Computer and information sciences, FOS: Mathematics},
+  primaryclass  = {cs.CR},
+  priority      = {prio1},
+  publisher     = {arXiv},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
 0 AllEntriesGroup:;
 1 StaticGroup:криптография\;0\;1\;0xcc8033ff\;\;\;;
 1 StaticGroup:теория малых сокращений\;0\;1\;0xffff4dff\;\;\;;
-1 StaticGroup:прочее/вместе\;0\;1\;0x334db3ff\;\;\;;
+1 StaticGroup:прочее/вместе\;0\;0\;0x334db3ff\;\;\;;
 }

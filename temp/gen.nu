@@ -1,6 +1,22 @@
 #!/usr/bin/env nu
 
-latexmk -pdf res.tex
-latexmk -c
+# latexmk -f -pdf res.tex
+# sleep 500ms
+# latexmk -c
 
-pdftotext -nopgbrk res.pdf; open res.txt | lines | filter {|it| not ($it =~ '^\d$')} | each {|it| if ($it =~ '^[\d]+\.([^\d].*|$)') {["-----", $it]} else $it } | flatten | split list '-----' | each { |it| $it | str join | $in + "\n" } | save -f res.txt
+pdftotext -nopgbrk -layout res.pdf
+
+(open res.txt 
+  | lines
+  | range 1..
+  | filter {|it| $it !~ '^\d$'} 
+  | each { |it|
+      (if ($it =~ '^\s*\S+\d{4}\s+[\d]+\.([^\d].*|$)') 
+          and ($it !~ '^[\d]{3,}') 
+          { ["-----", $it] }
+          else $it )}
+  | flatten
+  | split list '-----'
+  | each { |it| $it | str join | str replace -a '\s{2,}' ' ' | $in + "\n" }
+  | save -f res.txt
+)

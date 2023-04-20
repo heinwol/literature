@@ -1,14 +1,20 @@
 \documentclass{article}
 \usepackage[T2A]{fontenc}
+
+\usepackage[utf8]{inputenc}
+\usepackage[english,main=russian]{babel}
 \usepackage[
-    backend=biber,
-    bibstyle=gost-numeric,
+    % style=gost-alphabetic,
+    style=gost-numeric,
+    bibencoding=auto,
+    autolang=other
 ]{biblatex}
+\usepackage{csquotes}
 \addbibresource{../group_theory.bib}
 % \bibliography{sth}
 
+\usepackage{showkeys}
 \begin{document}
-% \autocite{author00:_title}
 \nocite{*}
 \printbibliography
 \end{document}
