@@ -2,10 +2,18 @@
     varwidth=\maxdimen,
     border={1000pt 100pt 100pt 100pt}
 ]{standalone}
-\usepackage[T2A]{fontenc}
+% \usepackage[T2A, T1]{fontenc}
 
-\usepackage[utf8]{inputenc}
-\usepackage[english,main=russian]{babel}
+% \usepackage[utf8]{inputenc}
+% \usepackage[english,main=russian]{babel}
+
+\usepackage{fontspec} % loaded by polyglossia, but included here for transparency 
+\usepackage{polyglossia}
+% \setmainlanguage{russian}
+% \setotherlanguage{english}
+\setdefaultlanguage{russian}
+\setmainfont[Ligatures=TeX]{Times New Roman}
+\newfontfamily\cyrillicfont{Times New Roman}[Script=Cyrillic]
 \usepackage[
     % style=gost-alphabetic,
     style=gost-numeric,
@@ -15,9 +23,12 @@
 \usepackage{csquotes}
 % \addbibresource{./bib_file.bib}
 \addbibresource{../group_theory.bib}
-% \bibliography{sth}
 
 \usepackage{showkeys}
+
+\renewcommand*\showkeyslabelformat[1]{%
+    \fbox{\normalfont\small\foreignlanguage{russian}{#1}}}
+
 \begin{document}
 \nocite{*}
 \printbibliography
