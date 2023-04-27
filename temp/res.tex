@@ -1,4 +1,7 @@
-\documentclass{article}
+\documentclass[
+    varwidth=\maxdimen,
+    border={1000pt 100pt 100pt 100pt}
+]{standalone}
 \usepackage[T2A]{fontenc}
 
 \usepackage[utf8]{inputenc}
@@ -10,7 +13,8 @@
     autolang=other
 ]{biblatex}
 \usepackage{csquotes}
-\addbibresource{./bib_file.bib}
+% \addbibresource{./bib_file.bib}
+\addbibresource{../group_theory.bib}
 % \bibliography{sth}
 
 \usepackage{showkeys}

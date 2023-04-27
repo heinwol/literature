@@ -42,7 +42,6 @@ def main [
     )
 
     soffice --convert-to ods res.csv
-    # rm res.csv res.bbl res.run.xml 
 
     mv res.ods $result_file
     cd $dir
